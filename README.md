@@ -55,10 +55,12 @@ Capacidad de adaptación automática a la carga de trabajo.
 
 Información útil para tomar decisiones (¿cuáles son los platos que más demoran?, ¿cuáles generan más errores?, etc.)
 
-4. Comparativa entre enfoques
-Aspecto	                                                   Gestión Tradicional                                                                  Gestión con IA
-Organización de pedidos	                                  Manual, basada en criterio humano	                                                    Automática, optimizada en tiempo real
-Tiempo de preparación	                                    Irregular, poco predecible	                                                          Mejor sincronización entre platos
-Errores comunes	                                          Altos, por confusión o descuido	                                                      Mínimos, gracias al control automatizado
-Escalabilidad	                                            Limitada	                                                                            Alta, sin requerir más personal
-Aprendizaje del sistema                                  	Inexistente	                                                                          Mejora constante con datos históricos
+## Comparativa entre enfoques
+
+| **Aspecto**              | **Gestión Tradicional**         | **Gestión con IA**                      |
+|--------------------------|----------------------------------|------------------------------------------|
+| **Organización de pedidos**  | Manual, basada en criterio humano | Automática, optimizada en tiempo real   |
+| **Tiempo de preparación**    | Irregular, poco predecible       | Mejor sincronización entre platos       |
+| **Errores comunes**          | Altos, por confusión o descuido  | Mínimos, gracias al control automatizado |
+| **Escalabilidad**            | Limitada                         | Alta, sin requerir más personal          |
+| **Aprendizaje del sistema**  | Inexistente                      | Mejora constante con datos históricos    |
